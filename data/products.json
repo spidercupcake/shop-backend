@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Phone Case 1",
+    "price": 19.99,
+    "image": "product1.png"
+  },
+  {
+    "id": 2,
+    "name": "Phone Case 2",
+    "price": 24.99,
+    "image": "product2.png"
+  },
+  {
+    "id": 3,
+    "name": "Phone Case 3",
+    "price": 14.99,
+    "image": "product3.png"
+  },
+  {
+    "id": 4,
+    "name": "Phone Case 4",
+    "price": 29.99,
+    "image": "product4.png"
+  },
+  {
+    "id": 5,
+    "name": "Phone Case 5",
+    "price": 19.99,
+    "image": "product5.png"
+  },
+  {
+    "id": 6,
+    "name": "Phone Case 6",
+    "price": 24.99,
+    "image": "product6.png"
+  },
+  {
+    "id": 7,
+    "name": "Phone Case 7",
+    "price": 14.99,
+    "image": "product7.png"
+  },
+  {
+    "id": 8,
+    "name": "Phone Case 8",
+    "price": 29.99,
+    "image": "product8.png"
+  }
+]
